@@ -1,2 +1,2 @@
 # ISS-Tracker-
-This project is all about the locate the location of international space station which uses the Rabbit MQ for transferring the co-ordinates to the other service which consumes it and show it up on map.
+This project is about locating the location of the international space station, which uses the Rabbit MQ to transfer the coordinates to the other service that consumes it and shows it on the map.
